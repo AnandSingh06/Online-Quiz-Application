@@ -17,7 +17,7 @@ A responsive and interactive web-based quiz application designed to assess progr
 - **JavaScript:** Logic for quiz functionality, including question navigation and score calculation.
 
 ## 📂 Project Structure
-│
+│<br>
 ├── index.html # Main HTML file<br>
 ├── style.css # Stylesheet for layout and design<br>
 └── script.js # JavaScript file containing quiz logic<br>
