@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Programming Quiz App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Online Quiz Application</h1>
+    <p>Select a section to start the quiz:</p>
+
+    <div class="buttons">
+      <button onclick="startQuiz('java')">Java</button>
+      <button onclick="startQuiz('python')">Python</button>
+      <button onclick="startQuiz('cpp')">C++</button>
+      <button onclick="startQuiz('javascript')">JavaScript</button>
+    </div>
+
+    <div id="quiz-section" class="hidden">
+      <h2 id="quiz-title"></h2>
+      <div id="question-container"></div>
+      <button id="next-btn" onclick="nextQuestion()">Next</button>
+    </div>
+
+    <div id="result-section" class="hidden">
+      <h2>Quiz Result</h2>
+      <p id="score"></p>
+      <button onclick="restartQuiz()">Restart</button>
+    </div>
+  </div>
+  
+  <script src="script.js"></script>
+</body>
+</html>
