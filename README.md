@@ -18,17 +18,8 @@ A responsive and interactive web-based quiz application designed to assess progr
 
 ## 📂 Project Structure
 │
-├── index.html # Main HTML file
-├── style.css # Stylesheet for layout and design
-└── script.js # JavaScript file containing quiz logic
+├── index.html # Main HTML file<br>
+├── style.css # Stylesheet for layout and design<br>
+└── script.js # JavaScript file containing quiz logic<br>
 
-## ⚙️ How to Run Locally
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/AnandSingh06/Online-Quiz-Application.git
-Navigate into the project directory:
-
-bash
-Copy code
-cd Online-Quiz-Application
