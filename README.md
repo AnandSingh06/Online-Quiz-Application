@@ -2,6 +2,9 @@
 
 A responsive and interactive web-based quiz application designed to assess programming skills in Java, Python, C++, and JavaScript. Built with HTML, CSS, and JavaScript, this project offers a seamless user experience for both desktop and mobile devices.
 
+
+**Live Demo:** [Click Here](https://anandsingh06.github.io/Online-Quiz-Application/)
+
 ## 🚀 Features
 
 - **Multiple Programming Languages:** Choose from Java, Python, C++, or JavaScript to take the quiz.
